@@ -6,13 +6,14 @@
 
 ### Certifications: 
 #### Microsoft 
-  - Microsoft Certified Trainer 2003 – 2024 
+  - Microsoft Certified Trainer 2003 – 2025 
   - Microsoft Certified Trainer Regional Lead
   - Microsoft Certified Trainer Community Lead
+  - Microsoft Most Valuable Professional (MVP) 2003-2017
   - MCP+I, MCSE, MCDST, MCSE+I, MCSD, MCDBA, MCSA, MCAD, MCITP, MCTS, MCPD 
   - Microsoft Certified:
     - Azure AI Fundamental, Azure Data Fundamental
-    - Azure Developer Associate, Azure AI Engineer Associate, Azure Administrator Associate 
+    - Azure Developer Associate, Azure AI Engineer Associate, Azure Administrator Associate, Information Protection and Compliance Administrator Associate 
     - Azure Solution Architect Expert, Azure DevOps Engineer Expert 
   - Microsoft Certification on Visual Studio .NET University
 #### GitHub
@@ -22,6 +23,7 @@
 #### AWS
   - Certified Solution Architect Associate, Certified Machine Learning Associate,
   - Certified AI Practitioner, Certified Cloud Practitioner
+  - Community Builder
 #### Google x Pendo 
   - Certified AI for Product Management
 #### Salesforce 
@@ -31,7 +33,8 @@
 #### Oracle 
   - Certified Foundations Associate: Oracle Cloud Infrastructure AI, Oracle Project Management 
 #### Alibaba Cloud
-  - 32 x Alibaba Cloud Certifications, Security Clouder, Networking Engineer, GenAI Developer 
+  - 32 x Alibaba Cloud Certifications, Security Clouder, Networking Engineer, GenAI Developer
+  - Alibaba Cloud Most Valuable Professional (MVP)
 #### Scrum Alliance 
   - Certified ScrumMaster (CSM ® ), Certified Product Owner (CSPO ®)
 #### APMG International 
