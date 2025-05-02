@@ -9,7 +9,6 @@
   - Microsoft Certified Trainer 2003 – 2025 
   - Microsoft Certified Trainer Regional Lead
   - Microsoft Certified Trainer Community Lead
-  - Microsoft Most Valuable Professional (MVP) 2003-2017
   - MCP+I, MCSE, MCDST, MCSE+I, MCSD, MCDBA, MCSA, MCAD, MCITP, MCTS, MCPD 
   - Microsoft Certified:
     - Azure AI Fundamental, Azure Data Fundamental
@@ -34,7 +33,6 @@
   - Certified Foundations Associate: Oracle Cloud Infrastructure AI, Oracle Project Management 
 #### Alibaba Cloud
   - 32 x Alibaba Cloud Certifications, Security Clouder, Networking Engineer, GenAI Developer
-  - Alibaba Cloud Most Valuable Professional (MVP)
 #### Scrum Alliance 
   - Certified ScrumMaster (CSM ® ), Certified Product Owner (CSPO ®)
 #### APMG International 
@@ -49,7 +47,8 @@
   - Microsoft Most Valuable Professional 2003 - 2017 
   - Microsoft Most Valuable Professional Reconnect 
   - Microsoft Most Valuable Professional Reconnect Regional Representatives (GCR Region) 
-  - Microsoft Most Valuable Professional Alumni 
+  - Microsoft Most Valuable Professional Alumni
+  - Alibaba Cloud Most Valuable Professional (MVP)
   - SourceCode K2 Insider, VB insider, DataAccess insider, C# Insider 
   - Founder and Vice President of a local IT User Group (Hong Kong .NET User Group) 
   - Technical Blogger (jo-san.IT, msblog.org, and msmvps.com) 
