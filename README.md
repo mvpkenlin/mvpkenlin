@@ -17,6 +17,7 @@
   - Microsoft Certification on Visual Studio .NET University
 #### GitHub
   - GitHub Foundations Certification
+  - GitHub Copilot Certification
 #### Google Cloud
   - Google Cloud Innovator, Certified Cloud Digital Leader, Certified Associate Cloud Engineer 
 #### AWS
