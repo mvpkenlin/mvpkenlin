@@ -11,9 +11,14 @@
   - Microsoft Certified Trainer Community Lead
   - MCP+I, MCSE, MCDST, MCSE+I, MCSD, MCDBA, MCSA, MCAD, MCITP, MCTS, MCPD 
   - Microsoft Certified:
-    - Azure AI Fundamental, Azure Data Fundamental
-    - Azure Developer Associate, Azure AI Engineer Associate, Azure Administrator Associate, Information Protection and Compliance Administrator Associate 
-    - Azure Solution Architect Expert, Azure DevOps Engineer Expert 
+    - Azure AI Fundamental
+    - Azure Data Fundamental
+    - Azure Developer Associate
+    - Azure AI Engineer Associate
+    - Azure Administrator Associate
+    - Information Protection and Compliance Administrator Associate 
+    - Azure Solution Architect Expert
+    - Azure DevOps Engineer Expert 
   - Microsoft Certification on Visual Studio .NET University
 #### GitHub
   - GitHub Foundations Certification
