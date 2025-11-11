@@ -16,6 +16,7 @@
     - Azure Developer Associate
     - Azure AI Engineer Associate
     - Azure Administrator Associate
+    - Azure Security Engineer Associate
     - Information Protection and Compliance Administrator Associate 
     - Azure Solution Architect Expert
     - Azure DevOps Engineer Expert 
@@ -24,7 +25,10 @@
   - GitHub Foundations Certification
   - GitHub Copilot Certification
 #### Google Cloud
-  - Google Cloud Innovator, Certified Cloud Digital Leader, Certified Associate Cloud Engineer 
+  - Google Cloud Innovator
+  - Certified Cloud Digital Leader
+  - Certified Generative AI Leader
+  - Certified Associate Cloud Engineer
 #### AWS
   - Certified Solution Architect Associate, Certified Machine Learning Associate,
   - Certified AI Practitioner, Certified Cloud Practitioner
