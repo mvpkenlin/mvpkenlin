@@ -16,6 +16,7 @@
     - Azure Developer Associate
     - Azure AI Engineer Associate
     - Azure Administrator Associate
+    - Fabric Data Engineer Associate
     - Azure Security Engineer Associate
     - Information Protection and Compliance Administrator Associate 
     - Azure Solution Architect Expert
